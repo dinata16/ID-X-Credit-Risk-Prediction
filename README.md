@@ -4,7 +4,10 @@
 
 
 # Credit Risk Analysis
-This repository contains a Jupyter Notebook for analyzing and predicting credit risk. The project was developed as part of the IDX Partners Virtual Internship, focusing on building a robust machine learning model for credit risk classification.
+This repository contains a Jupyter Notebook for analyzing and predicting credit risk. The project was developed as part of the IDX Partners Virtual Internship, focusing on building a robust machine learning model for credit risk classification. You can see the presentation by click this link below ⬇⬇⬇
+
+[Credit Risk Analysis Slides](https://www.canva.com/design/DAGJtWq-gFY/8uLomtU9Jl1L0MNQKIT-Ag/edit?utm_content=DAGJtWq-gFY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 
 ## Project Overview
 Credit risk analysis is a crucial task in the financial sector, helping lenders and institutions assess the likelihood of loan repayment. This project demonstrates a data-driven approach to credit risk evaluation using machine learning techniques.
